@@ -1,0 +1,1572 @@
+[
+  {
+    "id": 1,
+    "modelo": "Cronos",
+    "placa": "ERR0Z92",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-03-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 2,
+    "modelo": "Fiesta",
+    "placa": "GGA4Q30",
+    "porte": "BAIXO",
+    "cliente_id": 19,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-03-15",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 3,
+    "modelo": "Fiesta",
+    "placa": "EBX7V74",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-03-16",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 4,
+    "modelo": "Civic",
+    "placa": "QQA3000",
+    "porte": "BAIXO",
+    "cliente_id": 20,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-03-15",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 5,
+    "modelo": "Ka",
+    "placa": "EPT9117",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-03-15",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 6,
+    "modelo": "Strada",
+    "placa": "YDR3I05",
+    "porte": "ALTO",
+    "cliente_id": 4,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-03-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 7,
+    "modelo": "Onix",
+    "placa": "YCO8T65",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-03-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 8,
+    "modelo": "Mobi",
+    "placa": "QHW4R25",
+    "porte": "BAIXO",
+    "cliente_id": 15,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-03-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 9,
+    "modelo": "Civic",
+    "placa": "WUV4E59",
+    "porte": "BAIXO",
+    "cliente_id": 8,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-03-09",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 10,
+    "modelo": "Mobi",
+    "placa": "FVH6Q51",
+    "porte": "BAIXO",
+    "cliente_id": 11,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-03-12",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 11,
+    "modelo": "Cronos",
+    "placa": "KCX5R58",
+    "porte": "BAIXO",
+    "cliente_id": 15,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-03-10",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 12,
+    "modelo": "Renegade",
+    "placa": "QTJ1D29",
+    "porte": "ALTO",
+    "cliente_id": 4,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-03-12",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 13,
+    "modelo": "Sandero",
+    "placa": "BYF2N86",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-03-11",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 14,
+    "modelo": "Mobi",
+    "placa": "WKC2N09",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-03-10",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 15,
+    "modelo": "Sandero",
+    "placa": "CTH1O01",
+    "porte": "BAIXO",
+    "cliente_id": 11,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-03-09",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 16,
+    "modelo": "Kicks",
+    "placa": "EBQ1793",
+    "porte": "ALTO",
+    "cliente_id": 6,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-03-11",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 17,
+    "modelo": "Cronos",
+    "placa": "ZAI0X64",
+    "porte": "BAIXO",
+    "cliente_id": 18,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-03-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 18,
+    "modelo": "Toro",
+    "placa": "ODV7080",
+    "porte": "ALTO",
+    "cliente_id": 16,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-03-21",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 19,
+    "modelo": "City",
+    "placa": "WGH2M44",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-03-21",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 20,
+    "modelo": "Gol",
+    "placa": "UXI0C85",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-03-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 21,
+    "modelo": "Kicks",
+    "placa": "HWJ2F34",
+    "porte": "ALTO",
+    "cliente_id": 15,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-03-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 22,
+    "modelo": "Cronos",
+    "placa": "KRK4G45",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-03-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 23,
+    "modelo": "Sandero",
+    "placa": "CEM6A38",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-03-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 24,
+    "modelo": "Civic",
+    "placa": "VWZ6381",
+    "porte": "BAIXO",
+    "cliente_id": 11,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-03-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 25,
+    "modelo": "Compass",
+    "placa": "XTU8U54",
+    "porte": "ALTO",
+    "cliente_id": 17,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-03-19",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 26,
+    "modelo": "Sprinter",
+    "placa": "VSZ3767",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-03-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 27,
+    "modelo": "Civic",
+    "placa": "ULD7R06",
+    "porte": "BAIXO",
+    "cliente_id": 1,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-03-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 28,
+    "modelo": "Sandero",
+    "placa": "ZCI3H94",
+    "porte": "BAIXO",
+    "cliente_id": 15,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 29,
+    "modelo": "Gol",
+    "placa": "PVJ3248",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 30,
+    "modelo": "Sandero",
+    "placa": "UXW9E01",
+    "porte": "BAIXO",
+    "cliente_id": 16,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-05",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 31,
+    "modelo": "Sandero",
+    "placa": "VDW7J90",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 32,
+    "modelo": "Prisma",
+    "placa": "OYD8996",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 33,
+    "modelo": "Mobi",
+    "placa": "AJO8O34",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-03",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 34,
+    "modelo": "Gol",
+    "placa": "SCE4289",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-04",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 35,
+    "modelo": "Corolla",
+    "placa": "WLH7M03",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-05",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 36,
+    "modelo": "Yaris",
+    "placa": "YKM3W01",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 37,
+    "modelo": "Ranger",
+    "placa": "MMS6Y35",
+    "porte": "ALTO",
+    "cliente_id": 2,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-08",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 38,
+    "modelo": "Hilux",
+    "placa": "VJU4084",
+    "porte": "ALTO",
+    "cliente_id": 9,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 39,
+    "modelo": "Argo",
+    "placa": "YLZ0475",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-08",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 40,
+    "modelo": "HB20",
+    "placa": "XNO2270",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 41,
+    "modelo": "Civic",
+    "placa": "FPN4I94",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 42,
+    "modelo": "City",
+    "placa": "PRV2U20",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-07",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 43,
+    "modelo": "Polo",
+    "placa": "OKY2R24",
+    "porte": "BAIXO",
+    "cliente_id": 8,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-09",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 44,
+    "modelo": "Fiesta",
+    "placa": "XQG5Y07",
+    "porte": "BAIXO",
+    "cliente_id": 16,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-24",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 45,
+    "modelo": "Civic",
+    "placa": "VQQ3538",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-23",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 46,
+    "modelo": "Virtus",
+    "placa": "MUO4A16",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-22",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 47,
+    "modelo": "Kicks",
+    "placa": "PAC8O57",
+    "porte": "ALTO",
+    "cliente_id": 8,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-24",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 48,
+    "modelo": "S10",
+    "placa": "EQV7C70",
+    "porte": "ALTO",
+    "cliente_id": 2,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-22",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 49,
+    "modelo": "Polo",
+    "placa": "SBU2096",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-22",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 50,
+    "modelo": "Corolla",
+    "placa": "CJQ3140",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-21",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 51,
+    "modelo": "Onix",
+    "placa": "ARJ4564",
+    "porte": "BAIXO",
+    "cliente_id": 11,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-22",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 52,
+    "modelo": "Polo",
+    "placa": "RHA5036",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-24",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 53,
+    "modelo": "Fiesta",
+    "placa": "LVM4X64",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-04-28",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 54,
+    "modelo": "Toro",
+    "placa": "JYG3I97",
+    "porte": "ALTO",
+    "cliente_id": 10,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-04-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 55,
+    "modelo": "Ka",
+    "placa": "HPN0924",
+    "porte": "BAIXO",
+    "cliente_id": 20,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-04-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 56,
+    "modelo": "Hilux",
+    "placa": "GAT0W07",
+    "porte": "ALTO",
+    "cliente_id": 6,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-04-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 57,
+    "modelo": "Yaris",
+    "placa": "XDC5394",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-04-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 58,
+    "modelo": "HB20",
+    "placa": "JVX5K56",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-04-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 59,
+    "modelo": "Gol",
+    "placa": "ICL1R97",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-04-26",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 60,
+    "modelo": "City",
+    "placa": "ZNC7G47",
+    "porte": "BAIXO",
+    "cliente_id": 18,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-04-28",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 61,
+    "modelo": "Prisma",
+    "placa": "CZB1T43",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 62,
+    "modelo": "HB20",
+    "placa": "IXW4515",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-04-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 63,
+    "modelo": "Onix",
+    "placa": "HDP7630",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-18",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 64,
+    "modelo": "Mobi",
+    "placa": "EPF4W98",
+    "porte": "BAIXO",
+    "cliente_id": 5,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-21",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 65,
+    "modelo": "Yaris",
+    "placa": "OLZ1294",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-04-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 66,
+    "modelo": "Ka",
+    "placa": "HNC7892",
+    "porte": "BAIXO",
+    "cliente_id": 18,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-04-21",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 67,
+    "modelo": "Fiesta",
+    "placa": "DCI3413",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-04-19",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 68,
+    "modelo": "City",
+    "placa": "ISI4G56",
+    "porte": "BAIXO",
+    "cliente_id": 8,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-07",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 69,
+    "modelo": "Toro",
+    "placa": "EJS1M32",
+    "porte": "ALTO",
+    "cliente_id": 8,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 70,
+    "modelo": "Prisma",
+    "placa": "BDA3O47",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-05-05",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 71,
+    "modelo": "Corolla",
+    "placa": "BGT9555",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 72,
+    "modelo": "Ka",
+    "placa": "OTI0103",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-05-07",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 73,
+    "modelo": "HB20",
+    "placa": "LKE4B76",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-06",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 74,
+    "modelo": "Fiesta",
+    "placa": "VLF1276",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-07",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 75,
+    "modelo": "Mobi",
+    "placa": "CND9013",
+    "porte": "BAIXO",
+    "cliente_id": 5,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-08",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 76,
+    "modelo": "Fiesta",
+    "placa": "AYZ3M93",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-05-14",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 77,
+    "modelo": "Fiesta",
+    "placa": "FND6655",
+    "porte": "BAIXO",
+    "cliente_id": 19,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-05-11",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 78,
+    "modelo": "Strada",
+    "placa": "FEA2U50",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-05-14",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 79,
+    "modelo": "T-Cross",
+    "placa": "QFE2Q21",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-05-13",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 80,
+    "modelo": "Mobi",
+    "placa": "YZZ3233",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-05-14",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 81,
+    "modelo": "Tracker",
+    "placa": "KBT6355",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-05-11",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 82,
+    "modelo": "Polo",
+    "placa": "TMT7748",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-05-12",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 83,
+    "modelo": "HB20",
+    "placa": "MQF1E31",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-05-12",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 84,
+    "modelo": "City",
+    "placa": "SHN5O64",
+    "porte": "BAIXO",
+    "cliente_id": 15,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 85,
+    "modelo": "Onix",
+    "placa": "TPO9Y58",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-05-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 86,
+    "modelo": "Corolla",
+    "placa": "CEL1Z56",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 87,
+    "modelo": "Civic",
+    "placa": "CXK8380",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-17",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 88,
+    "modelo": "Civic",
+    "placa": "ACT1795",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-20",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 89,
+    "modelo": "Prisma",
+    "placa": "EIQ7866",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 90,
+    "modelo": "Polo",
+    "placa": "KLB6F81",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 91,
+    "modelo": "Ka",
+    "placa": "ZZI8B81",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-05-30",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 92,
+    "modelo": "Sandero",
+    "placa": "RUM6086",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-05-27",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 93,
+    "modelo": "Civic",
+    "placa": "LKY3F78",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 94,
+    "modelo": "City",
+    "placa": "USV0029",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 95,
+    "modelo": "HB20",
+    "placa": "ASL8L68",
+    "porte": "BAIXO",
+    "cliente_id": 8,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-05-26",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 96,
+    "modelo": "Civic",
+    "placa": "GLT2598",
+    "porte": "BAIXO",
+    "cliente_id": 5,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-28",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 97,
+    "modelo": "T-Cross",
+    "placa": "EOD2V34",
+    "porte": "ALTO",
+    "cliente_id": 13,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-05-27",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 98,
+    "modelo": "HB20",
+    "placa": "URL9O77",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-05-26",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 99,
+    "modelo": "Ka",
+    "placa": "ABB6F30",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-27",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 100,
+    "modelo": "Hilux",
+    "placa": "TRV2330",
+    "porte": "ALTO",
+    "cliente_id": 14,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-26",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 101,
+    "modelo": "Sprinter",
+    "placa": "TFQ4U06",
+    "porte": "ALTO",
+    "cliente_id": 16,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 102,
+    "modelo": "Fiesta",
+    "placa": "XOC7413",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-05-29",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 103,
+    "modelo": "Sandero",
+    "placa": "HUB4W06",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-05-26",
+    "situacao": "ENTREGUE"
+  },
+  {
+    "id": 104,
+    "modelo": "Ka",
+    "placa": "XKG5383",
+    "porte": "BAIXO",
+    "cliente_id": 20,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-06-09",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 105,
+    "modelo": "Mobi",
+    "placa": "PQW0N92",
+    "porte": "BAIXO",
+    "cliente_id": 8,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-06-11",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 106,
+    "modelo": "Argo",
+    "placa": "MTS2E04",
+    "porte": "BAIXO",
+    "cliente_id": 1,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-06-10",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 107,
+    "modelo": "Ka",
+    "placa": "LEW0E88",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-06-08",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 108,
+    "modelo": "Gol",
+    "placa": "SYL8V08",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-06-08",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 109,
+    "modelo": "Argo",
+    "placa": "GDB1Y80",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-06-09",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 110,
+    "modelo": "S10",
+    "placa": "DZY4824",
+    "porte": "ALTO",
+    "cliente_id": 11,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-06-08",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 111,
+    "modelo": "Mobi",
+    "placa": "JTX6A55",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-06-15",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 112,
+    "modelo": "Tracker",
+    "placa": "WBR1S36",
+    "porte": "ALTO",
+    "cliente_id": 6,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-06-15",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 113,
+    "modelo": "Argo",
+    "placa": "JYY0071",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-06-13",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 114,
+    "modelo": "Tracker",
+    "placa": "WZF9708",
+    "porte": "ALTO",
+    "cliente_id": 12,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-06-13",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 115,
+    "modelo": "City",
+    "placa": "GWH1U98",
+    "porte": "BAIXO",
+    "cliente_id": 3,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-06-14",
+    "situacao": "EM_TRANSPORTE"
+  },
+  {
+    "id": 116,
+    "modelo": "Yaris",
+    "placa": "LDM1411",
+    "porte": "BAIXO",
+    "cliente_id": 14,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-08-18",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 117,
+    "modelo": "Compass",
+    "placa": "NRQ3O16",
+    "porte": "ALTO",
+    "cliente_id": 18,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-08-12",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 118,
+    "modelo": "HB20",
+    "placa": "LSK7V70",
+    "porte": "BAIXO",
+    "cliente_id": 11,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-08-25",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 119,
+    "modelo": "Sandero",
+    "placa": "SHE3Q24",
+    "porte": "BAIXO",
+    "cliente_id": 9,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-08-15",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 120,
+    "modelo": "Civic",
+    "placa": "XEH9877",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-08-25",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 121,
+    "modelo": "Toro",
+    "placa": "IXD1G49",
+    "porte": "ALTO",
+    "cliente_id": 5,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-08-06",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 122,
+    "modelo": "City",
+    "placa": "NIG1I26",
+    "porte": "BAIXO",
+    "cliente_id": 13,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-08-26",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 123,
+    "modelo": "Sprinter",
+    "placa": "ZNW4O02",
+    "porte": "ALTO",
+    "cliente_id": 5,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-08-02",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 124,
+    "modelo": "Onix",
+    "placa": "XHN9624",
+    "porte": "BAIXO",
+    "cliente_id": 14,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-08-20",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 125,
+    "modelo": "Polo",
+    "placa": "VFU6K33",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Lauro de Freitas",
+    "data_contratacao": "2026-08-22",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 126,
+    "modelo": "Ka",
+    "placa": "INP9N66",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-08-08",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 127,
+    "modelo": "Sprinter",
+    "placa": "PDB3F91",
+    "porte": "ALTO",
+    "cliente_id": 7,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-08-25",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 128,
+    "modelo": "Kicks",
+    "placa": "ORG8391",
+    "porte": "ALTO",
+    "cliente_id": 1,
+    "cidade_destino": "Camacari",
+    "data_contratacao": "2026-08-12",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 129,
+    "modelo": "Prisma",
+    "placa": "GVF1X78",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-08-17",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 130,
+    "modelo": "Duster",
+    "placa": "BAC6U89",
+    "porte": "ALTO",
+    "cliente_id": 12,
+    "cidade_destino": "Salvador",
+    "data_contratacao": "2026-08-09",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 131,
+    "modelo": "Compass",
+    "placa": "XMQ6421",
+    "porte": "ALTO",
+    "cliente_id": 15,
+    "cidade_destino": "Simoes Filho",
+    "data_contratacao": "2026-08-09",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 132,
+    "modelo": "Strada",
+    "placa": "CZZ7686",
+    "porte": "ALTO",
+    "cliente_id": 18,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-08-06",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 133,
+    "modelo": "Cronos",
+    "placa": "VUZ7669",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-08-27",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 134,
+    "modelo": "Cronos",
+    "placa": "ZHI4154",
+    "porte": "BAIXO",
+    "cliente_id": 14,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-08-25",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 135,
+    "modelo": "T-Cross",
+    "placa": "ZIL4K61",
+    "porte": "ALTO",
+    "cliente_id": 16,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-08-16",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 136,
+    "modelo": "Cronos",
+    "placa": "EJM9K17",
+    "porte": "BAIXO",
+    "cliente_id": 17,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-08-20",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 137,
+    "modelo": "Onix",
+    "placa": "GCU9D74",
+    "porte": "BAIXO",
+    "cliente_id": 5,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-08-21",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 138,
+    "modelo": "Cronos",
+    "placa": "ZEG8757",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-08-06",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 139,
+    "modelo": "City",
+    "placa": "GPW1X56",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-08-22",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 140,
+    "modelo": "Civic",
+    "placa": "PPR7E89",
+    "porte": "BAIXO",
+    "cliente_id": 16,
+    "cidade_destino": "Entre Rios",
+    "data_contratacao": "2026-08-09",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 141,
+    "modelo": "Kicks",
+    "placa": "XAF7667",
+    "porte": "ALTO",
+    "cliente_id": 19,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-08-16",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 142,
+    "modelo": "Tracker",
+    "placa": "LNN1235",
+    "porte": "ALTO",
+    "cliente_id": 6,
+    "cidade_destino": "Esplanada",
+    "data_contratacao": "2026-08-22",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 143,
+    "modelo": "Onix",
+    "placa": "TBV5414",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Conde",
+    "data_contratacao": "2026-08-21",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 144,
+    "modelo": "Civic",
+    "placa": "BGW2K12",
+    "porte": "BAIXO",
+    "cliente_id": 12,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-08-16",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 145,
+    "modelo": "Argo",
+    "placa": "JNK8B37",
+    "porte": "BAIXO",
+    "cliente_id": 10,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-08-16",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 146,
+    "modelo": "Yaris",
+    "placa": "QIQ3U63",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Capim Grosso",
+    "data_contratacao": "2026-08-27",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 147,
+    "modelo": "City",
+    "placa": "ESU0M92",
+    "porte": "BAIXO",
+    "cliente_id": 18,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-08-07",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 148,
+    "modelo": "Virtus",
+    "placa": "JDA7T98",
+    "porte": "BAIXO",
+    "cliente_id": 2,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-08-18",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 149,
+    "modelo": "EcoSport",
+    "placa": "WWT1359",
+    "porte": "ALTO",
+    "cliente_id": 7,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-08-20",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 150,
+    "modelo": "Ka",
+    "placa": "DVF6907",
+    "porte": "BAIXO",
+    "cliente_id": 4,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-08-22",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 151,
+    "modelo": "Civic",
+    "placa": "ZJR4948",
+    "porte": "BAIXO",
+    "cliente_id": 6,
+    "cidade_destino": "Jacobina",
+    "data_contratacao": "2026-08-12",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 152,
+    "modelo": "Fiesta",
+    "placa": "SUS0894",
+    "porte": "BAIXO",
+    "cliente_id": 16,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-08-02",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 153,
+    "modelo": "Strada",
+    "placa": "NSW7314",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-08-27",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 154,
+    "modelo": "Civic",
+    "placa": "PYN1U60",
+    "porte": "BAIXO",
+    "cliente_id": 7,
+    "cidade_destino": "Riachao do Jacuipe",
+    "data_contratacao": "2026-08-22",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 155,
+    "modelo": "Hilux",
+    "placa": "NAA1993",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Candeias",
+    "data_contratacao": "2026-08-11",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 156,
+    "modelo": "Sprinter",
+    "placa": "DEP9H57",
+    "porte": "ALTO",
+    "cliente_id": 6,
+    "cidade_destino": "Serrinha",
+    "data_contratacao": "2026-08-04",
+    "situacao": "AGUARDANDO"
+  },
+  {
+    "id": 157,
+    "modelo": "Renegade",
+    "placa": "YXW2372",
+    "porte": "ALTO",
+    "cliente_id": 3,
+    "cidade_destino": "Alagoinhas",
+    "data_contratacao": "2026-08-01",
+    "situacao": "AGUARDANDO"
+  }
+]

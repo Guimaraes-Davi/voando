@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "placa": "JQF7A11",
+    "capacidade_superior": 5,
+    "capacidade_inferior": 4
+  },
+  {
+    "id": 2,
+    "placa": "LMR2B48",
+    "capacidade_superior": 5,
+    "capacidade_inferior": 4
+  },
+  {
+    "id": 3,
+    "placa": "PKD9C05",
+    "capacidade_superior": 5,
+    "capacidade_inferior": 4
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "id": 1,
+    "cegonha_id": 2,
+    "data": "2026-03-20",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Camacari",
+      "Lauro de Freitas",
+      "Salvador"
+    ],
+    "veiculos": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "rampa_superior": [
+      2,
+      5,
+      7,
+      8,
+      4
+    ],
+    "rampa_inferior": [
+      1,
+      6,
+      3
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 8
+  },
+  {
+    "id": 2,
+    "cegonha_id": 1,
+    "data": "2026-03-27",
+    "eixo": "SERTAO",
+    "paradas": [
+      "Serrinha",
+      "Capim Grosso",
+      "Jacobina"
+    ],
+    "veiculos": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "rampa_superior": [
+      10,
+      13,
+      9,
+      11,
+      14
+    ],
+    "rampa_inferior": [
+      15,
+      16,
+      12
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 8
+  },
+  {
+    "id": 3,
+    "cegonha_id": 1,
+    "data": "2026-03-31",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Salvador"
+    ],
+    "veiculos": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "rampa_superior": [
+      20,
+      17,
+      19,
+      22
+    ],
+    "rampa_inferior": [
+      18,
+      21
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 2
+  },
+  {
+    "id": 4,
+    "cegonha_id": 2,
+    "data": "2026-04-06",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Lauro de Freitas",
+      "Salvador"
+    ],
+    "veiculos": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "rampa_superior": [
+      27,
+      24,
+      23
+    ],
+    "rampa_inferior": [
+      25,
+      26
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 0
+  },
+  {
+    "id": 5,
+    "cegonha_id": 1,
+    "data": "2026-04-15",
+    "eixo": "LITORAL_NORTE",
+    "paradas": [
+      "Alagoinhas",
+      "Entre Rios",
+      "Esplanada",
+      "Conde"
+    ],
+    "veiculos": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "rampa_superior": [
+      29,
+      33,
+      34,
+      30,
+      35
+    ],
+    "rampa_inferior": [
+      28,
+      31,
+      32
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 10
+  },
+  {
+    "id": 6,
+    "cegonha_id": 3,
+    "data": "2026-04-22",
+    "eixo": "LITORAL_NORTE",
+    "paradas": [
+      "Alagoinhas",
+      "Entre Rios",
+      "Esplanada",
+      "Conde"
+    ],
+    "veiculos": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "rampa_superior": [
+      40,
+      36,
+      39,
+      42,
+      43
+    ],
+    "rampa_inferior": [
+      38,
+      41,
+      37
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 7,
+    "cegonha_id": 2,
+    "data": "2026-04-27",
+    "eixo": "LITORAL_NORTE",
+    "paradas": [
+      "Alagoinhas",
+      "Entre Rios",
+      "Esplanada",
+      "Conde"
+    ],
+    "veiculos": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "rampa_superior": [
+      44,
+      45,
+      50,
+      51,
+      52
+    ],
+    "rampa_inferior": [
+      46,
+      49,
+      47,
+      48
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 10
+  },
+  {
+    "id": 8,
+    "cegonha_id": 2,
+    "data": "2026-05-02",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Lauro de Freitas"
+    ],
+    "veiculos": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "rampa_superior": [
+      59,
+      53,
+      55,
+      57,
+      58
+    ],
+    "rampa_inferior": [
+      56,
+      60,
+      54
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 8
+  },
+  {
+    "id": 9,
+    "cegonha_id": 2,
+    "data": "2026-05-07",
+    "eixo": "LITORAL_NORTE",
+    "paradas": [
+      "Alagoinhas",
+      "Entre Rios",
+      "Esplanada",
+      "Conde"
+    ],
+    "veiculos": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "rampa_superior": [
+      61,
+      63,
+      64,
+      65,
+      62
+    ],
+    "rampa_inferior": [
+      67,
+      66
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 10,
+    "cegonha_id": 3,
+    "data": "2026-05-14",
+    "eixo": "SERTAO",
+    "paradas": [
+      "Serrinha",
+      "Riachao do Jacuipe",
+      "Capim Grosso"
+    ],
+    "veiculos": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "rampa_superior": [
+      68,
+      71,
+      73,
+      74,
+      75
+    ],
+    "rampa_inferior": [
+      70,
+      72,
+      69
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 14
+  },
+  {
+    "id": 11,
+    "cegonha_id": 1,
+    "data": "2026-05-23",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Camacari",
+      "Salvador"
+    ],
+    "veiculos": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "rampa_superior": [
+      82,
+      77,
+      76,
+      80,
+      83
+    ],
+    "rampa_inferior": [
+      78,
+      81,
+      79
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 12,
+    "cegonha_id": 3,
+    "data": "2026-05-31",
+    "eixo": "SERTAO",
+    "paradas": [
+      "Serrinha",
+      "Riachao do Jacuipe",
+      "Jacobina"
+    ],
+    "veiculos": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "rampa_superior": [
+      85,
+      84,
+      88,
+      86,
+      87
+    ],
+    "rampa_inferior": [],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 13,
+    "cegonha_id": 2,
+    "data": "2026-06-07",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Simoes Filho",
+      "Camacari",
+      "Lauro de Freitas",
+      "Salvador"
+    ],
+    "veiculos": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "rampa_superior": [
+      91,
+      92,
+      90,
+      93,
+      94
+    ],
+    "rampa_inferior": [
+      89
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 14,
+    "cegonha_id": 2,
+    "data": "2026-06-12",
+    "eixo": "SERTAO",
+    "paradas": [
+      "Serrinha",
+      "Riachao do Jacuipe",
+      "Capim Grosso",
+      "Jacobina"
+    ],
+    "veiculos": [
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "rampa_superior": [
+      95,
+      98,
+      102,
+      96,
+      99
+    ],
+    "rampa_inferior": [
+      103,
+      97,
+      100,
+      101
+    ],
+    "situacao": "CONCLUIDA",
+    "total_manobras": 4
+  },
+  {
+    "id": 15,
+    "cegonha_id": 3,
+    "data": "2026-06-21",
+    "eixo": "SALVADOR",
+    "paradas": [
+      "Candeias",
+      "Simoes Filho",
+      "Camacari",
+      "Lauro de Freitas",
+      "Salvador"
+    ],
+    "veiculos": [
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "rampa_superior": [
+      109,
+      104,
+      106,
+      107,
+      108
+    ],
+    "rampa_inferior": [
+      105,
+      110
+    ],
+    "situacao": "EM_CURSO",
+    "total_manobras": 6
+  },
+  {
+    "id": 16,
+    "cegonha_id": 2,
+    "data": "2026-06-28",
+    "eixo": "SERTAO",
+    "paradas": [
+      "Serrinha",
+      "Capim Grosso",
+      "Jacobina"
+    ],
+    "veiculos": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "rampa_superior": [
+      113,
+      115,
+      111
+    ],
+    "rampa_inferior": [
+      112,
+      114
+    ],
+    "situacao": "EM_CURSO",
+    "total_manobras": 2
+  }
+]

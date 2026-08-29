@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "Candeias",
+    "distancia_km": 75,
+    "eixo": "SALVADOR"
+  },
+  {
+    "nome": "Simoes Filho",
+    "distancia_km": 88,
+    "eixo": "SALVADOR"
+  },
+  {
+    "nome": "Camacari",
+    "distancia_km": 95,
+    "eixo": "SALVADOR"
+  },
+  {
+    "nome": "Lauro de Freitas",
+    "distancia_km": 102,
+    "eixo": "SALVADOR"
+  },
+  {
+    "nome": "Salvador",
+    "distancia_km": 110,
+    "eixo": "SALVADOR"
+  },
+  {
+    "nome": "Alagoinhas",
+    "distancia_km": 120,
+    "eixo": "LITORAL_NORTE"
+  },
+  {
+    "nome": "Entre Rios",
+    "distancia_km": 165,
+    "eixo": "LITORAL_NORTE"
+  },
+  {
+    "nome": "Esplanada",
+    "distancia_km": 195,
+    "eixo": "LITORAL_NORTE"
+  },
+  {
+    "nome": "Conde",
+    "distancia_km": 235,
+    "eixo": "LITORAL_NORTE"
+  },
+  {
+    "nome": "Serrinha",
+    "distancia_km": 90,
+    "eixo": "SERTAO"
+  },
+  {
+    "nome": "Riachao do Jacuipe",
+    "distancia_km": 115,
+    "eixo": "SERTAO"
+  },
+  {
+    "nome": "Capim Grosso",
+    "distancia_km": 165,
+    "eixo": "SERTAO"
+  },
+  {
+    "nome": "Jacobina",
+    "distancia_km": 230,
+    "eixo": "SERTAO"
+  }
+]
